@@ -14,6 +14,8 @@
 
 🛸 | Repositorio não-oficial criado para o compartilhamento de recursos e conhecimento entre as cadetes da 42São Paulo, para fins de desenvolvimento e estudos no exame e projetos.
 
+## 📁 Recursos/
+- [01. Debugger](https://github.com/mewmewdevart/42Codelas/tree/main/Debugger) | GDB (GNU Project Debugger) - Ferramenta para a depuração de um programa enquanto ele executa.
 
 ## ☕ Contribua com o projeto
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
